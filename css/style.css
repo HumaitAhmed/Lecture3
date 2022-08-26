@@ -1,0 +1,39 @@
+h4{
+	font-size: 25px;
+}
+.heading1{
+	background-color: yellow;
+}
+#text1{
+	border: 10px dashed orangered;
+}
+.h1{
+	color: blue;
+}
+#h1{
+	color: orange;
+}
+/*width,height,bg color part*/
+.box{
+	width: 200px;
+	height: 200pt;
+	background-color: green;
+}
+.box2{
+	width: 20%;
+	height: 20em;
+	background-color: rgba(55,55,55, 0.2);
+}
+table,th,td{
+	border: 2px dotted lightblue;
+	border-collapse: collapse;
+}
+th{
+	background-color: darkred;
+}
+td{
+	background-color: limegreen;
+}
+th,td{
+	border-color: yellow;
+}
